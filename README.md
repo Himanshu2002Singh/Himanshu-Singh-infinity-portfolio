@@ -1,23 +1,21 @@
-# Responsive Portfolio Website 
+##MY DIGITAL RESUME 
 
-Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
+I am a pre-final year undergrad at Graphic Era Hill University pursuing a Bachelor of Technology majoring in Computer Science and Engineering I am a passionate Competitive Programmer, Data Scientist.i love giving structure to my ideas using coding.
 
-## Website contains: 
-
-- Home
-- About Me
-- Skills
-- Qualification
-- Portfolio
-- Game (Working on it)
-- Contact
-
-<div align="center">
-<a href="https://mishraji566.github.io/Portfolio"><strong>➥ Live Demo</strong></a>
-
-<p align="center"><b>If you found the code useful, please feel free to fork it and modify it as you see fit.</p? <br>
-</div>
+IN this portfolio website cover all details about me --
 
 
+##HOME SCREEN
+![image](https://user-images.githubusercontent.com/89336758/216779806-d9d759c5-1ece-4cf0-a9ef-4b7b3a057e95.png)
 
-<p align="center"><b>© Created by Praveen Mishra</b></p?
+##ABOUT ME
+![image](https://user-images.githubusercontent.com/89336758/216780016-08aae02e-7c52-4c20-b45f-a6cf9e085f60.png)
+
+![image](https://user-images.githubusercontent.com/89336758/216780040-8c3565bb-2ee5-4299-b244-0442bad5e865.png)
+
+##MY PROJECT
+![image](https://user-images.githubusercontent.com/89336758/216780048-fa9722c2-c259-49a8-950a-5a505952ab3c.png)
+
+##Contact me
+![image](https://user-images.githubusercontent.com/89336758/216780059-bbb17918-aa6b-42fb-8ff1-299311974b12.png)
+
