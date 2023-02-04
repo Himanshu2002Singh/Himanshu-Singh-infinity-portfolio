@@ -19,6 +19,6 @@ IN this portfolio website cover all details about me --
 ## Contact me
 ![image](https://user-images.githubusercontent.com/89336758/216780059-bbb17918-aa6b-42fb-8ff1-299311974b12.png)
 
-## live working link of my disistal Resume
+## live working link of my digital Resume
 
 https://himanshusinghinfinity.000webhostapp.com/index.html
